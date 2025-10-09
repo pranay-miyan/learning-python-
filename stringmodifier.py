@@ -1,6 +1,6 @@
-a = "  Hello, World!   "
+a = "  hello, World!   "
 
-#upper of lower case.
+#upper the lower case.
 print(a.upper().strip(), a.lower())
 #also combine string modifiers
 
@@ -12,6 +12,15 @@ print(a.replace("H", "N"))
 
 print(a.strip().split(","))
 #like array that splits it with whats inside.
+
+print(f"The sentance will be capitalised - {a.capitalize()}")
+#make the first letter capital!
+
+print(f"The sentance will be capitalised - {a.capitalize()}")
+#casefold converts string into lower case
+
+
+
 
 
 
