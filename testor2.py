@@ -1,0 +1,15 @@
+
+print(divmod(12,2))
+tempmem = []
+while True:
+    cal = int(input("What is your  digits? : "))
+    symbol = input("What is your symbol (choose from: *, /, +, -) : ")
+    if symbol == "/":
+        print(divmod(tempmem))
+
+
+
+
+
+
+ 
