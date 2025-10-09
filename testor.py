@@ -1,4 +1,5 @@
 
+"""
 tempmem = []
 while True:
     cal = int(input("What is your  digits? : "))
@@ -7,8 +8,11 @@ while True:
         print(divmod(tempmem))
     tempmem.append(cal)
     print(tempmem) # for debugging
+"""
+
+txt = "Hello\tWorld!"
+print(txt) 
     
-        print(sum(tempmem))
 
 
 
