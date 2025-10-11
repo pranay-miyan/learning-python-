@@ -1,6 +1,6 @@
 l = "Death note is tuff"
 
-#(variable[{num char1}:{num char2}])
+#(variable[{num char1}:{num char2}]) it deltes them, the 5 is first x character
 print(f"Characters from the position 2 to 5 is {l[2:5]}")
 #gets first 5 char then removes first 2
 
