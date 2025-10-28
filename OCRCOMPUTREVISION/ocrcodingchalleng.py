@@ -1,0 +1,1 @@
+function moveCharacter(direction,position)
